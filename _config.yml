@@ -99,13 +99,22 @@ content:
           During my time at Mission San Jose High School I am learning most of my key skills that have I have taken through my career such as collaborating and perservering. I learnt a lot about a healthy work life balance.
     
       - layout: left
-        title: Mission San Jose High School
+        title: Ohlone College
         caption: 2020 - 2024
-        sub_title: High School Diploma
+        sub_title: College Courses
         quote: >
-          Mission San Jose High is ranked fifth within California.
+          On December 7, 1965 Fremont and Newark voters approved the creation of the Fremont Newark Junior College District and elected a seven-member Board of Trustees.  Ohlone College was established to serve the cities of Fremont and Newark.
         description: | # this will include new lines to allow paragraphs
-          During my time at Mission San Jose High School, I am learning most of my key skills that have I have taken through my career such as collaborating and perservering. I learnt a lot about a healthy work life balance.
+          I am taking courses at Ohlone College concurrently with high school. I have gained an understanding of how college level courses work.
+          
+          - title: Completed courses
+            layout: list # Type of content section (list/text)
+            content:
+              - title: Physics 108
+            
+    content:
+      - layout: left
+        title: Mission San Jose High School
                     
   - title: A Little More About Me
     layout: text
