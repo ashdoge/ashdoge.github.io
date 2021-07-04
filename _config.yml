@@ -108,7 +108,10 @@ content:
           I am taking courses at Ohlone College concurrently with high school. I have gained an understanding of how college level courses work.
           * Completed Courses
             * Physics 108
-
+            * Spanish 3
+          * In Progress
+            * CS 125
+            
   - title: Certifications # Title for the section
     layout: list # Type of content section (list/text)
     content:
