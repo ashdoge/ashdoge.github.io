@@ -106,7 +106,19 @@ content:
           On December 7, 1965 Fremont and Newark voters approved the creation of the Fremont Newark Junior College District and elected a seven-member Board of Trustees.  Ohlone College was established to serve the cities of Fremont and Newark.
         description: | # this will include new lines to allow paragraphs
           I am taking courses at Ohlone College concurrently with high school. I have gained an understanding of how college level courses work.
-                    
+
+- title: Certifications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Rice University
+        caption: 2020 
+        sub_title: Certificate
+        quote: >
+          Coursera Inc. is an American massive open online course provider founded in 2012 by Stanford University computer science professors Andrew Ng and Daphne Koller.
+        description: | 
+          https://coursera.org/share/4dac553fb7aca5793b8646e356ce2e82
+            
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
