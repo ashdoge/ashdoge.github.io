@@ -106,9 +106,9 @@ content:
           On December 7, 1965 Fremont and Newark voters approved the creation of the Fremont Newark Junior College District and elected a seven-member Board of Trustees.  Ohlone College was established to serve the cities of Fremont and Newark.
         description: | # this will include new lines to allow paragraphs
           I am taking courses at Ohlone College concurrently with high school. I have gained an understanding of how college level courses work.
-          
-        - layout: list # Type of content section (list/text)
-          sub_title: Completed courses
+         
+        - sub_title: Completed courses
+          layout: list # Type of content section (list/text)
           content:
             - title: Physics 108
 
