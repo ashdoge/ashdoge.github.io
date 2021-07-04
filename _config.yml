@@ -107,10 +107,10 @@ content:
         description: | # this will include new lines to allow paragraphs
           I am taking courses at Ohlone College concurrently with high school. I have gained an understanding of how college level courses work.
           
-          - title: Completed courses
-            layout: list # Type of content section (list/text)
-            content:
-              - title: Physics 108
+        - layout: list # Type of content section (list/text)
+          sub_title: Completed courses
+          content:
+            - title: Physics 108
             
     content:
       - layout: left
