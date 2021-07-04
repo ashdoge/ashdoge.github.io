@@ -111,10 +111,7 @@ content:
           sub_title: Completed courses
           content:
             - title: Physics 108
-            
-    content:
-      - layout: left
-        title: Mission San Jose High School
+
                     
   - title: A Little More About Me
     layout: text
