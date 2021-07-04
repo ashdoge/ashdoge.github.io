@@ -97,8 +97,7 @@ content:
           Mission San Jose High is ranked fifth within California.
         description: | # this will include new lines to allow paragraphs
           During my time at Mission San Jose High School I am learning most of my key skills that have I have taken through my career such as collaborating and perservering. I learnt a lot about a healthy work life balance.
-    layout: list # Type of content section (list/text)
-    content:
+    
       - layout: left
         title: Mission San Jose High School
         caption: 2020 - 2024
@@ -106,7 +105,7 @@ content:
         quote: >
           Mission San Jose High is ranked fifth within California.
         description: | # this will include new lines to allow paragraphs
-          During my time at Mission San Jose High School I am learning most of my key skills that have I have taken through my career such as collaborating and perservering. I learnt a lot about a healthy work life balance.
+          During my time at Mission San Jose High School, I am learning most of my key skills that have I have taken through my career such as collaborating and perservering. I learnt a lot about a healthy work life balance.
                     
   - title: A Little More About Me
     layout: text
